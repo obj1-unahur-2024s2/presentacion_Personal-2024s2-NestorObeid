@@ -1,35 +1,9 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+![Yo](./assets/UNAHUR.png)
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+**Nestor Obeid**
+Mi nombre es Obeid, Nestor Omar, tengo 41 años y soy de Hurlingham. Termine mis estudios secundarios en el colegio Leopoldo Marechal en el año 2001 con un país revolucionado, inmerso en una crisis económica, que, por aquel entonces, yo veía irreversible e imaginaba futuro oscuro.
+Intenté ingresar a la Policia Federal, más allá de que no era lo que quería o gustaba, pero pensaba que era lo único que me podía dar un trabajo estable, por suerte por x montivos no pude ingresar. Durante el año 2002, aun sin saber que es lo que quería para mi vida, me dedique a trabajar de lo que encontraba, un supermercado en el centro, una vidriería, de seguridad en negocios, camillero en ambulancia y varios más. Cada uno de estos trabajos me ayudaron a crecer y a darme cuenta que tipo de trabajo quería, sabía que, para ese trabajo, sea cual sea, necesitaba estudiar, solo me faltaba saber qué ¿medicina? ¿Abogado? ¿contador? hasta que a mediados de ese mismo año me di cuenta que era la informática. Comencé a buscar universidades para la carrera, en aquel entonces no tenia la suerte de contar con la UNAHUR, encontré una en Villa Urquiza, el Instituto Nacional Superior del Profesorado Tecnico dependiente de la UTN, el titulo intermedio era Tecnico superior en informática aplicada y, cursando las materias pedagógicas, abrían las puertas para ser docente en distintas materias. Ya estaba encaminado, sabia que quería, que y donde estudiar, el nuevo reto era encontrar un trabajo que me permita hacerlo siendo el único horario que había para cursar era por la mañana. 
+En el año 2003 comencé a estudiar. En el año 2006 temine la cursada, solo me faltaba la tesis o tesina, no recuerdo que era. Conseguí un empleo, en el cual sigo, que me gusto y sentí comodo, me aboqué de lleno al trabajo, estaba contento con lo que había conseguido, el estudio paso a un segundo plano, lamentablemente no hice la tesis y no consegui el titulo.
+ Hoy tengo una familia, una mujer maravillosa que me apoyo desde el minuto uno en que le comente que quería volver a estudiar, soy padre de dos hijos hermosos, Benjamín de 5 años y Bautista de 3, hoy el desafío es otro, es encontrar los tiempos para estudiar, hacer un equilibrio entre el trabajo, el estudio y la familia, no espero terminarla en 3 años, tal vez me lleve un poco mas ya que no puedo y no quiero pasar mucho tiempo sin mi familia, pero estoy decidido a terminarla.
