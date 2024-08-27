@@ -2,7 +2,7 @@
 
 ![Yo](./assets/UNAHUR.png)
 
-**Nestor Obeid** /n
+**Nestor Obeid**
 
 Mi nombre es Obeid, Nestor Omar, tengo 41 años y soy de Hurlingham. Termine mis estudios secundarios en el colegio Leopoldo Marechal en el año 2001 con un país revolucionado, inmerso en una crisis económica, que, por aquel entonces, yo veía irreversible e imaginaba futuro oscuro.
 Intenté ingresar a la Policia Federal, más allá de que no era lo que quería o gustaba, pero pensaba que era lo único que me podía dar un trabajo estable, por suerte por x montivos no pude ingresar. Durante el año 2002, aun sin saber que es lo que quería para mi vida, me dedique a trabajar de lo que encontraba, un supermercado en el centro, una vidriería, de seguridad en negocios, camillero en ambulancia y varios más. Cada uno de estos trabajos me ayudaron a crecer y a darme cuenta que tipo de trabajo quería, sabía que, para ese trabajo, sea cual sea, necesitaba estudiar, solo me faltaba saber qué ¿medicina? ¿Abogado? ¿contador? hasta que a mediados de ese mismo año me di cuenta que era la informática. Comencé a buscar universidades para la carrera, en aquel entonces no tenia la suerte de contar con la UNAHUR, encontré una en Villa Urquiza, el Instituto Nacional Superior del Profesorado Tecnico dependiente de la UTN, el titulo intermedio era Tecnico superior en informática aplicada y, cursando las materias pedagógicas, abrían las puertas para ser docente en distintas materias. Ya estaba encaminado, sabia que quería, que y donde estudiar, el nuevo reto era encontrar un trabajo que me permita hacerlo siendo el único horario que había para cursar era por la mañana. 
