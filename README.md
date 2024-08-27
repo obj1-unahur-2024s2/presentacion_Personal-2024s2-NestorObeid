@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-![Yo1](./assets/Yo1.JPEG)
+![Yo1](./assets/yo.png)
 
 **Nestor Obeid**
 
